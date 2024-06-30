@@ -1,5 +1,4 @@
-# OC_PROJET2
-Analysez des données de systèmes éducatifs
+# OC_PROJET2 - Analysez des données de systèmes éducatifs
 
 ## Objectifs : 
 - Mettre en place un environnement Python
@@ -21,5 +20,21 @@ Pour la pré-analyse, pourrais-tu :
 - décrire les informations contenues dans le jeu de données (nombre de colonnes ? nombre de lignes ?)
 - sélectionner les informations qui semblent pertinentes pour répondre à la problématique (quelles sont les colonnes contenant des informations qui peuvent être utiles pour répondre à la problématique de l’entreprise ?)
 - déterminer des ordres de grandeurs des indicateurs statistiques classiques pour les différentes zones géographiques et pays du monde (moyenne/médiane/écart-type par pays et par continent ou bloc géographique)
+
+## Méthode de scoring puis prédiction: 
+![image](https://github.com/Isdinval/OC_PROJET2/assets/34789438/647f386d-6636-47f5-8139-e6857bf0d83f)
+![image](https://github.com/Isdinval/OC_PROJET2/assets/34789438/b4f33639-5947-4226-9a6c-2fc1d350bff9)
+
+
+## Problèmatiques et Conclusion :
+![image](https://github.com/Isdinval/OC_PROJET2/assets/34789438/1a897871-ba6d-4567-80ee-cadb21729a50)
+
+
+
+
+
+
+
+
  
 
