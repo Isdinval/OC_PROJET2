@@ -1,7 +1,7 @@
 # OC_PROJET2
 Analysez des données de systèmes éducatifs
 
-## Objectifs: 
+## Objectifs : 
 - Mettre en place un environnement Python
 - Utiliser un notebook Jupyter pour faciliter la rédaction du code et la collaboration
 - Effectuer une analyse univariée et des représentations graphiques avec une librairie
@@ -14,7 +14,7 @@ Mark, votre manager, vous a convié à une réunion pour vous présenter le proj
 
 Mark aimerait explorer les pays avec un fort potentiel de clients pour les services de academy, et comment ce potentiel pourrait évoluer. 
 
-## Mission : 
+## Missions : 
 Mark vous a donc demandé de réaliser une analyse pré-exploratoire de ce jeu de données. 
 Pour la pré-analyse, pourrais-tu :
 - valider la qualité de ce jeu de données (comporte-t-il beaucoup de données manquantes, dupliquées ?)
